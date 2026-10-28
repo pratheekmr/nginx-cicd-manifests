@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: pratheekmr/nginx-cicd:latest
+          image: pratheekmr/nginx-cicd:2
           ports:
             - containerPort: 80
